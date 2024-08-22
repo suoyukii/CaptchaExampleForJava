@@ -1,8 +1,15 @@
-# Interference-verification-code
-功能：
-* 生成多样化的验证码
-* 生成随机字体
-* 生成干扰线
-* 生成干扰字符
-* 生成多颜色
-* 生成多偏转
+<h1 align="center">CaptchaExampleForJava</h1>
+<h4 align="center">Captcha Example for Java</h4>
+
+---
+
+This is a Image Captcha Example using OpenJDK 22.
+
+# Features
+
+- Multiple types of CAPTCHA
+- Randomized fonts
+- Interfering lines
+- Interfering characters
+- Multiple colors
+- Multiple deflections
